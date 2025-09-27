@@ -9,7 +9,7 @@ I look forward to hearing from you!
 
 ## About
 
-** Note: Portfolio projects and descriptions of graduate research/publications are below **
+*Note: Portfolio projects and descriptions of graduate research/publications are below* 
 
 I am a PhD in Physics transitioning into data science, excited to apply my skills to deliver data-driven solutions and actionable insights. With my doctorate, I offer persistence, adaptability, and tested problem-solving ability 
 
