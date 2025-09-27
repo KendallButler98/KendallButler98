@@ -15,6 +15,20 @@ I am a PhD in Physics transitioning into data science, excited to apply my skill
 
 ## Portfolio Projects (continuously updating)
 
+### Project 1
+
+### Project 2 - Machine Learning: Sub-Projects Demonstrating Regression, Clustering, Unsupervised Learning and Classification (in-progress)
+
+#### 2.1: Regression analysis of Yelp Review Data
+
+#### 2.2: 
+
+#### 2.3:
+
+#### 2.4: 
+
+
+
 ## Research
 
 ### 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Dissertation Thesis
