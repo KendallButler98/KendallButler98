@@ -1,5 +1,7 @@
 # Kendall J. Butler
 
+**(Note: Portfolio projects, descriptions of graduate research, and publications are in the "Portfolio" and "Research" sections below.)**
+
 ## Contact
 I look forward to hearing from you!
 
@@ -10,8 +12,6 @@ I look forward to hearing from you!
 ## About
 
 I am a PhD in Physics transitioning into data science, excited to apply my skills to deliver data-driven solutions and actionable insights. With my doctorate, I offer persistence, adaptability, and tested problem-solving ability 
-
-**(Note: Portfolio projects, descriptions of graduate research, and publications are in the "Portfolio" and "Research" sections below.)**
 
 **Education and PhD Research Summary:**
 - **PhD Physics**, Drexel University (2025)
