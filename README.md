@@ -13,25 +13,44 @@ I am a PhD in Physics transitioning into data science, excited to apply my skill
 
 **(Note: Portfolio projects, descriptions of graduate research, and publications are in the "Portfolio" and "Research" sections below.)**
 
+**Education and PhD Research Summary:**
+- **PhD Physics**, Drexel University (2025)
+- **MS Physics**, Drexel University (2022)
+- **BS Physics**, University of Maine (2020, Highest Honors)
+
+I earned a BS in physics in May 2020, earning highest honors for my project simulating planetary systems and plotting the progression of system parameters in Python. After my undergraduate degree, I began the physics PhD program at Drexel University. The first research group I joined at Drexel was the PROSPECT collaboration, for which I used C++ to analyze Bismuth-Polonium Background radiation for their neutrino detector. The following Fall of 2021, I began work with the Computational Biophysics group, simulating spiking neural networks using a legacy code in MATLAB. After qualifying for PhD candidacy, I translated this code into Python in order to have a more adaptable, scalable and flexible framework to continue my research with. 
+
+Over the course of this research, I: 
+- used fundamental data analysis skills in Python
+- developed visualization techniques and novel metrics for analysis of our simulation output data
+- taught programming in python to first year physics majors
+- supervised a team of "Physics Fellows"
+- designed a PyTorch-based machine learning framework for the classification of inputs using our network model
+- mentored a senior undergraduate on his senior project using linear regression to measure wave speed
+- presented a poster at the 2024 Biophysical society conference
+- published in the Journal of Computational Neuroscience
+
+In total, my experience as a Physicist and through my research in Computational Neuroscience demonstrates that I am adaptable and up to face any challenge that is handed to me. I am ready and prepared to apply these abilities to deliver data-driven results and actionable insights for business leaders.
+
 ## Portfolio Projects (continuously updating)
 
-### Project 1
+### Project 1 - 
 
 ### Project 2 - Machine Learning: Sub-Projects Demonstrating Regression, Clustering, Unsupervised Learning and Classification (in-progress)
 
-#### 2.1: Regression analysis of Yelp Review Data
+#### 2.1: Regression analysis of Yelp Review Data (in revision-stage)
 
-#### 2.2: 
+#### 2.2: (forthcoming clustering project)
 
-#### 2.3:
+#### 2.3: (forthcoming unsupervised learning project)
 
-#### 2.4: 
+#### 2.4: (forthcoming classification project)
 
 
 
 ## Research
 
-### 1 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Dissertation Thesis
+### 1 - Pathway formation and Dynamical Transitions by Neuronal Traveling Waves with Plasticity - Dissertation Thesis (June 2025)
 
 This is the dissertation thesis I wrote and defended in order to earn my PhD from Drexel University. It includes all meaningful projects I completed during my time with the Computational Biophysics group. To complete my research, I used Python heavily, leveraging the BRIAN neural simulator to study traveling waves through networks of neurons. With our model networks, I demonstrated pathway formation when neuronal traveling waves are paired with plasticity in the form of Spike-Timing Dependent Plasticity. I also investigated dynamical changes as a result of changes in specific network parameters as well as through changes in delay times using delay-STDP, which we introduce as an adjustment of the regular STDP rule. 
 
@@ -52,7 +71,7 @@ In the appendix of this thesis, I detail additional results related to those two
 6. **Appendix D** - Additional projects, including additional neuron types, synapse models, surrogate gradient learning (BPTT for spiking signals) using PyTorch, and the effects of network damage on wave propagation
 7. **Appendix E** - Visualization of the effects that adjusting various network parameters has on wave propagation
 
-### 2 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience
+### 2 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience (December 2024)
 
 **Link to open-access paper:** [https://link.springer.com/article/10.1007/s10827-024-00890-2](https://link.springer.com/article/10.1007/s10827-024-00890-2)
 
@@ -60,11 +79,11 @@ In the appendix of this thesis, I detail additional results related to those two
 
 This paper simulated traveling waves through a thin (3-layer) sheet of neurons using various mechanisms of input stimulation. The neurons in these simulations (like real neurons) communicated via synapses. Put simply, each neuron has many input synapses from other neurons. When enough stimulation is received from those synapses, the neuron fires and it sends its own signal. When that signal reaches its synapses, stimulation is input into those neurons in turn. We include synaptic plasticity (the ability of synapses to change with activity) in the form of Spike-Timing Dependent Plasticity (STDP), where if the neuron sending a signal spikes before the neuron receiving it, that synapse is strengthened! If the opposite occurs (a negative correlation) that synapse is weakened instead. With the addition of STDP to a network with traveling waves, directional pathways were formed over time in all cases, which we visualized using vector fields of average weight changes for each region.
 
-### 3 - Poster for the 2024 Biophysical Society Conference - "Formation of Synaptic Pathways with Neuronal Traveling Waves"
+### 3 - Poster for the 2024 Biophysical Society Conference - "Formation of Synaptic Pathways with Neuronal Traveling Waves" (February 2024)
 
 **PDF of Poster:** [https://github.com/KendallButler98/research_files/blob/main/Poster_2024.pdf](https://github.com/KendallButler98/research_files/blob/main/Poster_2024.pdf)
 
-### 4 - Honors Thesis at the University of Maine - "Investigating the Stability of Observed Low Semi-major Axis Exoplanetary Systems With Hypothetical Outer Planets Using The Program Mercury6"
+### 4 - Honors Thesis at the University of Maine - "Investigating the Stability of Observed Low Semi-major Axis Exoplanetary Systems With Hypothetical Outer Planets Using The Program Mercury6" (May 2020)
 
 This is the honors thesis I completed through research my Senior year at the University of Maine, for which I earned highest honors. This project included simulation of three observed planetary systems using the program Mercury6. Each of these simulations included an additional outer planet with varying parameters and simple analysis using a Python script. See link below for the full text:
 
