@@ -1,13 +1,12 @@
 # Kendall J. Butler
 
-**(Note: Portfolio projects, descriptions of graduate research, and publications are in the "Portfolio" and "Research" sections below.)**
+**(Note: Portfolio projects, descriptions of graduate research, and publications are in the "Portfolio Projects" and "Research" sections below.)**
 
 ## Contact
 I look forward to hearing from you!
 
 - Email: [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:kendall.jon.butler@gmail.com)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kendall-butler-b4ba63157/)
-- GitHub: [https://github.com/KendallButler98](https://github.com/KendallButler98)
 
 ## About
 
