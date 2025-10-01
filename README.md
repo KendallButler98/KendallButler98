@@ -33,11 +33,20 @@ In total, my experience as a Physicist and through my research in Computational 
 
 ## Portfolio Projects (continuously updating)
 
-### Project 1 - 
+### Project 1: <u>E-commerce Customer Analysis - Understanding Behavior and Identifying High-value Segments</u>
+
+**repository:** [https://github.com/KendallButler98/Ecommerce_Analysis/tree/main](https://github.com/KendallButler98/Ecommerce_Analysis/tree/main)
+
+This project includes an analysis of the "Online Retail II UCI" dataset sourced from Kaggle: [https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci), which includes data on individual transactions from an Ecommerce company over two years of business. My analysis demonstrates fundamental concepts and methods in data science, including:
+- data cleaning
+- exploratory analysis
+- customer segmentation using RFM analysis
+- Unsupervised machine learning (Kmeans clustering)
+- communication of actionable businesss insights
 
 ### Project 2 - Machine Learning: Sub-Projects Demonstrating Regression, Clustering, Unsupervised Learning and Classification (in-progress)
 
-#### 2.1: Regression analysis of Yelp Review Data (in revision-stage)
+#### 2.1: Regression analysis of Yelp Review Data (in progress, to be posted soon)
 
 #### 2.2: (forthcoming clustering project)
 
