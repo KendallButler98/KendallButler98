@@ -48,7 +48,7 @@ This project includes an analysis of the "Online Retail II UCI" dataset sourced 
 
 #### Project 2.1: Advising Restaurants on How to Improve Customer Reviews Using Multiple Linear Regression on Yelp Review Data
 
-**Repository:** [https://github.com/KendallButler98/yelp_regression/blob/main/README.md](https://github.com/KendallButler98/yelp_regression/blob/main/README.md)
+**Repository:** [https://github.com/KendallButler98/yelp_regression/tree/main](https://github.com/KendallButler98/yelp_regression/tree/main)
 
 This project includes an analysis of a subset of the [Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/) provided by codecademy for academic purposes. My analysis demonstrates the following skills:
 - data cleaning
@@ -57,12 +57,7 @@ This project includes an analysis of a subset of the [Yelp Open Dataset](https:/
 - model evaluation
 - communication of actionable insights for restaurants
 
-#### 2.2: (forthcoming clustering project)
-
-#### 2.3: (forthcoming unsupervised learning project)
-
-#### 2.4: (forthcoming classification project)
-
+#### 2.2: (clustering/unsupervised learning project: in-progress)
 
 
 ## Research
