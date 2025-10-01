@@ -35,7 +35,7 @@ In total, my experience as a Physicist and through my research in Computational 
 
 ### Project 1: <u>E-commerce Customer Analysis - Understanding Behavior and Identifying High-value Segments</u>
 
-**repository:** [https://github.com/KendallButler98/Ecommerce_Analysis/tree/main](https://github.com/KendallButler98/Ecommerce_Analysis/tree/main)
+**Repository:** [https://github.com/KendallButler98/Ecommerce_Analysis/tree/main](https://github.com/KendallButler98/Ecommerce_Analysis/tree/main)
 
 This project includes an analysis of the "Online Retail II UCI" dataset sourced from Kaggle: [https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci), which includes data on individual transactions from an Ecommerce company over two years of business. My analysis demonstrates fundamental concepts and methods in data science, including:
 - data cleaning
@@ -46,7 +46,16 @@ This project includes an analysis of the "Online Retail II UCI" dataset sourced 
 
 ### Project 2 - Machine Learning: Sub-Projects Demonstrating Regression, Clustering, Unsupervised Learning and Classification (in-progress)
 
-#### 2.1: Regression analysis of Yelp Review Data (in progress, to be posted soon)
+#### Project 2.1: Advising Restaurants on How to Improve Customer Reviews Using Multiple Linear Regression on Yelp Review Data
+
+**Repository:** [https://github.com/KendallButler98/yelp_regression/blob/main/README.md](https://github.com/KendallButler98/yelp_regression/blob/main/README.md)
+
+This project includes an analysis of a subset of the [Yelp Open Dataset](https://business.yelp.com/data/resources/open-dataset/) provided by codecademy for academic purposes. My analysis demonstrates the following skills:
+- data cleaning
+- feature selection
+- multiple linear regression
+- model evaluation
+- communication of actionable insights for restaurants
 
 #### 2.2: (forthcoming clustering project)
 
