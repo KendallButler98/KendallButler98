@@ -72,8 +72,8 @@ In the appendix of this thesis, I detail additional results related to those two
 
 #### Breakdown of Thesis parts/projects
 
-1. **Chapter 3 - The formation of pathways** (demonstrates pathway formation by traveling waves with the addition of plasticity in the form of STDP) - this is the same as project 1 above.
-2. **Chapter 4 - Delay Plasticity (breakdown below)**
+1. **Chapter 3 - The formation of pathways** (demonstrates pathway formation by traveling waves with the addition of plasticity in the form of STDP) - this is the same as the published paper (project 2) below.
+2. **Chapter 4 - Delay Plasticity**
    a. A phase space is delineated using various metrics connected to synaptic delays and the rate of neuron membrane recovery
    b. An adjustment of STDP to changes in synaptic delays (delay-STDP), tested for multiple types
    c. Demonstration of increased pathway formation with the combination of STDP and bidirectional delay-STDP
