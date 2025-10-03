@@ -33,7 +33,7 @@ In total, my experience as a Physicist and through my research in Computational 
 
 ## Portfolio Projects (continuously updating)
 
-### <u>General Data-Sceince Skills</u>
+### General Data-Science Projects
 ---
 
 #### Project 1: E-commerce Customer Analysis - Understanding Behavior and Identifying High-value Segments
