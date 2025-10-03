@@ -34,8 +34,9 @@ In total, my experience as a Physicist and through my research in Computational 
 ## Portfolio Projects (continuously updating)
 
 ### <u>General Data-Sceince Skills</u>
+---
 
-### Project 1: <u>E-commerce Customer Analysis - Understanding Behavior and Identifying High-value Segments</u>
+#### Project 1: E-commerce Customer Analysis - Understanding Behavior and Identifying High-value Segments
 
 **Repository:** [https://github.com/KendallButler98/Ecommerce_Analysis/tree/main](https://github.com/KendallButler98/Ecommerce_Analysis/tree/main)
 
@@ -46,7 +47,8 @@ This project includes an analysis of the "Online Retail II UCI" dataset sourced 
 - Unsupervised machine learning (Kmeans clustering)
 - communication of actionable businesss insights
 
-### <u>Machine Learning Projects</u>
+### Machine Learning Projects
+---
 
 #### Project 2: Advising Restaurants on How to Improve Customer Reviews Using Multiple Linear Regression on Yelp Review Data
 
