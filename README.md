@@ -10,7 +10,7 @@ I look forward to hearing from you!
 
 ## About
 
-I am a PhD in Physics transitioning into data science, excited to apply my skills to deliver data-driven solutions and actionable insights. With my doctorate, I offer persistence, adaptability, and tested problem-solving ability 
+I am a PhD in Physics transitioning into data science, excited to apply my skills to deliver data-driven solutions. With my doctorate, I offer persistence, adaptability, and tested problem-solving ability.
 
 **Education and PhD Research Summary:**
 - **PhD Physics**, Drexel University (2025)
