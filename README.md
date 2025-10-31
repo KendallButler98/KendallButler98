@@ -1,4 +1,4 @@
-# Kendall J. Butler
+# Kendall J. Butler, Ph.D.
 
 **(Descriptions of graduate research, and publications are in the "Research" section, with minor additional computational analyses in the "Data Science Projects" sections below.)**
 
