@@ -42,7 +42,11 @@ Overall, my experience as a computational neuroscientist and physicist demonstra
 
 ## Research
 
-### 1 - Pathway formation and Dynamical Transitions by Neuronal Traveling Waves with Plasticity - Dissertation Thesis (June 2025)
+### 1 - Dynamical transitions in traveling waves by synaptic delay plasticity - Manuscript in preparation, to be submitted early 2026
+
+This project, as outlined in chapter 4 of my dissertation (described below), investigates dynamical transitions in our traveling wave networks. First, I reveal a phase space, quantifying wave continuity and propagation curl in relation to both membrane potential recovery and the scale of distance-dependent delay times. We found that wave longevity transitioned from transient to continuous wave propagation as both delay times and membrane recovery rates were increased, while the curl of propagation was significantly affected only by synaptic delays. We extended these ideas in connection to plasticity by adjusting the classical STDP model into delay-STDP in three forms (increasing-only, decreasing-only, bidirectional delay changes). With this model we observed real-time dynamical transitions that could help interpret the possible effects of real delay plasticity, which we do not yet have a full understanding of.
+
+### 2 - Pathway formation and Dynamical Transitions by Neuronal Traveling Waves with Plasticity - Dissertation Thesis (June 2025)
 
 This is the dissertation thesis I wrote and defended in order to earn my PhD from Drexel University. It includes all meaningful projects I completed during my time with the Computational Biophysics group. To complete my research, I used Python heavily, leveraging the BRIAN neural simulator to study traveling waves through networks of neurons. With our model networks, I demonstrated pathway formation when neuronal traveling waves are co-incident with plasticity in the form of Spike-Timing Dependent Plasticity. I also investigated dynamical changes as a result of changes in specific network parameters as well as through changes in delay times using delay-STDP, which I introduce as an adjustment of the regular STDP rule. 
 
@@ -63,17 +67,13 @@ In the appendix of this thesis, I detail additional results related to those two
 6. **Appendix D** - Additional projects, including additional neuron types, synapse models, surrogate gradient learning (BPTT for spiking signals) using PyTorch, and the effects of network damage on wave propagation
 7. **Appendix E** - Visualization of the effects that adjusting various network parameters has on wave propagation
 
-### 2 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience (December 2024)
+### 3 - Neuronal traveling waves form preferred pathways using synaptic plasticity - Published in the Journal of Computational Neuroscience (December 2024)
 
 **Link to open-access paper:** [Butler, K., Cruz, L., Journal of Computational Neuroscience, 2024](https://link.springer.com/article/10.1007/s10827-024-00890-2)
 
 **Repository:** [J. of Comp. Neurosci. Reproducibility Code](https://github.com/kjb-research/JCN-Traveling-Wave-Pathways)
 
 This paper simulated traveling waves through a thin (3-layer) sheet of neurons using various mechanisms of input stimulation. The neurons in these simulations (like real neurons) communicated via synapses. Put simply, each neuron has many input synapses from other neurons. When enough stimulation is received from those synapses, the neuron fires and it sends its own signal. When that signal reaches its synapses, stimulation is input into those neurons in turn. We include synaptic plasticity (the ability of synapses to change with activity) in the form of Spike-Timing Dependent Plasticity (STDP), where if the neuron sending a signal spikes before the neuron receiving it, that synapse is strengthened! If the opposite occurs (a negative correlation) that synapse is weakened instead. With the addition of STDP to a network with traveling waves, directional pathways were formed over time in all cases, which we visualized using vector fields of average weight changes for each region.
-
-### 3 - Dynamical transitions in traveling waves by synaptic delay plasticity - Manuscript in preparation, to be submitted early 2026
-
-This project, as outlined in chapter 4 of my dissertation, investigates dynamical transitions in our traveling wave networks. First, I reveal a phase space, quantifying wave continuity and propagation curl in relation to both membrane potential recovery and the scale of distance-dependent delay times. We found that wave longevity transitioned from transient to continuous wave propagation as both delay times and membrane recovery rates were increased, while the curl of propagation was significantly effected only by synaptic delays. We extended these ideas in connection to plasticity by adjusting STDP into delay-STDP in three forms (increasing-only, decreasing-only, bidirectional delay changes). With this model we observed real-time dynamical transitions that could help interpret the possible effects of real delay plasticity, which we do not yet have a full understanding of.
 
 ### 4 - Poster for the 2024 Biophysical Society Conference - "Formation of Synaptic Pathways with Neuronal Traveling Waves" (February 2024)
 
